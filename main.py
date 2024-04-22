@@ -2,6 +2,7 @@ import pyperclip
 from os import system
 chars = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!§$%&/()=?`´+-*~',.:;<>_"
 
+# wild
 
 def filter_word(word, char_list):
     filtered = ""
